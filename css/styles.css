@@ -223,7 +223,6 @@ button {
 .menu__news {
 	display: flex;
 	justify-content: space-between;
-	color: #000;
 }
 .menu-btn {
 	display: block;
@@ -234,6 +233,7 @@ button {
 	background-color: rgba(229, 229, 229, 0.5);
 	border-radius: 8px;
 	line-height: 10px;
+	color: #000;
 }
 .menu-btn__active {
 	background-color: #f95102;
