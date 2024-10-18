@@ -1,6 +1,7 @@
 @font-face {
 	font-family: "Fact";
 	src: url("../fonts/Fact-ExtraBold.woff2") format("woff2");
+	font-display: swap;
 }
 
 html {
